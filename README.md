@@ -2,9 +2,8 @@
 
 Hi, I'm Maurice.
 
-I'm an amateur programmer. I program mainly in JS, but also the occasional bit of C.  
-I'm currently studying Electrical Engineering at university.  
-This account is currently used to share various programs, such as Tampermonkey userScripts or scripts for the game *Bitburner*.
+I'm an amateur programmer. I program mainly in JS and Python, but also the occasional bit of C.  
+This account is currently used to store and share various programs I have created, such as Tampermonkey userScripts and Python automation scripts.
 
 <!---
 MPJ-K/MPJ-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
